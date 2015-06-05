@@ -1,0 +1,3 @@
+[submodule "node_modules/protobufjs"]
+	path = node_modules/protobufjs
+	url = git@github.com:PrinC/ProtoBuf.js.git
