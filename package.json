@@ -5,6 +5,6 @@
   "author": "py8765 pengyang633@126.com/@py8765",
   "dependencies": {
     "pomelo-logger": "0.1.2",
-    "protobufjs": "*"
+    "protobufjs": "PrinC/ProtoBuf.js"
   }
 }
